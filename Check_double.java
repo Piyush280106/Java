@@ -1,5 +1,5 @@
 import java .util.Scanner;
-public class problem2
+public class Check_double
 {
     public static void main(String[] args) {
 		// TODO Auto-generated method stub
