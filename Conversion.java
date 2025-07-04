@@ -1,6 +1,6 @@
-import java.util.Scanner;
+rsinimport java.util.Scanner;
 import java.util.*;
-public class problem1 {
+public class Conversion {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
