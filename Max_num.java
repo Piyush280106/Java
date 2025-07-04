@@ -1,4 +1,4 @@
-public class Assignment11 {
+public class Max_num {
 
 	public static void main(String[] args) {
 		int arr[] = {15, 5, 10};
